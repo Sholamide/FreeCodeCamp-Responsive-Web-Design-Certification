@@ -41,16 +41,7 @@
     justify-content: space-evenly;
   }
   
-  .sky {
-    background: radial-gradient(
-        closest-corner circle at 15% 15%,
-        #b08c56,
-        #a77513 20%,
-        #ffff66 21%,
-        #f5c002 100%
-      );
-  }
-  /* .sky {
+   .sky {
     background: radial-gradient(
         closest-corner circle at 15% 15%,
         #ffcf33,
@@ -58,7 +49,7 @@
         #ffff66 21%,
         #bbeeff 100%
       );
-  } */
+  } 
   
   /* BACKGROUND BUILDINGS - "bb" stands for "background building" */
   .bb1 {
